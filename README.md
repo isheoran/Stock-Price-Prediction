@@ -1,2 +1,1 @@
-# Stock-Market-Prediction
-# Stock-Market-Prediction
+# Stock-Price-Prediction
